@@ -71,7 +71,7 @@ export default class ModalBox extends React.PureComponent {
     backButtonClose: false,
     easing: Easing.elastic(0.8),
     coverScreen: false,
-    keyboardTopOffset: Platform.OS == 'ios' ? 22 : 0,
+    keyboardTopOffset: Platform.OS == 'ios' || Platform.OS == 'harmony' ? 22 : 0,
     useNativeDriver: true
   };
 
@@ -123,6 +123,12 @@ export default class ModalBox extends React.PureComponent {
       this.subscriptions = [
         Keyboard.addListener('keyboardWillChangeFrame', this.onKeyboardChange),
         Keyboard.addListener('keyboardDidHide', this.onKeyboardHide)
+      ];
+    }
+    if (Platform.OS === 'harmony') {
+      this.subscriptions = [
+        Keyboard.addListener('keyboardDidShow', this.onKeyboardChange),
+        Keyboard.addListener('keyboardDidHide', this.onKeyboardChange)
       ];
     }
   }

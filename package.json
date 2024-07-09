@@ -1,6 +1,6 @@
 {
-  "name": "react-native-modalbox",
-  "version": "2.0.2",
+  "name": "@react-native-oh-tpl/react-native-modalbox",
+  "version": "2.0.2-0.0.1",
   "description": "A <Modal/> component for react-native",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "react-native",
     "ios",
     "android",
+    "harmony",
     "modal",
     "box",
     "modalbox",
@@ -28,6 +29,10 @@
   },
   "homepage": "https://github.com/maxs15/react-native-modalbox#readme",
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react-native-modalbox": "2.0.2"
+  },
+  "harmony": {
+    "alias": "react-native-modalbox"
   }
 }
