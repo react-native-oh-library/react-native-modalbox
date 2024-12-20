@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-modalbox",
+        "License": "MIT License",
+        "License File": "https://github.com/maxs15/react-native-modalbox/blob/master/License.txt",
+        "Version Number": "2.0.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/maxs15/react-native-modalbox",
+        "Description": "A <Modal/> component for react-native"
+    }
+]
