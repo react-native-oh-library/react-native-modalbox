@@ -1,6 +1,6 @@
 # @react-native-ohos/react-native-modalbox
 
-This project is based on [react-native-modalbox@2.0.2](https://github.com/maxs15/react-native-modalbox/tree/master)
+This project is based on [react-native-modalbox@2.0.2](https://github.com/maxs15/react-native-modalbox/tree/e90ae65890d093fafbb4a54fe536bbf94e4b6403)
 
 ## Documentation
 
