@@ -487,7 +487,6 @@ export default class ModalBox extends React.PureComponent {
       height: this.state.containerHeight,
       width: this.state.containerWidth
     };
-    const offsetX = (this.state.containerWidth - this.state.width) / 2;
 
     return (
       <Animated.View
@@ -497,9 +496,9 @@ export default class ModalBox extends React.PureComponent {
           size,
           this.props.style,
           {
+            alignSelf: 'center',
             transform: [
-              {translateY: this.state.position},
-              {translateX: offsetX}
+              {translateY: this.state.position}
             ]
           }
         ]}
