@@ -4,9 +4,9 @@ This project is based on [react-native-modalbox@2.0.2](https://github.com/maxs15
 
 ## Documentation
 
-- [中文](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-modalbox.md)
+- [中文](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/zh-cn/react-native-modalbox.md)
 
-- [English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/en/react-native-modalbox.md)
+- [English](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/en/react-native-modalbox.md)
 
 ## License
 
