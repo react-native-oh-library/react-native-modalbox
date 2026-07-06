@@ -1,12 +1,12 @@
-# @react-native-oh-tpl/react-native-modalbox
+# @react-native-ohos/react-native-modalbox
 
 This project is based on [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
 
 ## Documentation
 
-- [中文](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-modalbox.md)
+- [中文](https://gitcode.com/CPF-RN/usage-docs/blob/master/zh-cn/react-native-modalbox.md)
 
-- [English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/en/react-native-modalbox.md)
+- [English](https://gitcode.com/CPF-RN/usage-docs/blob/master/en/react-native-modalbox.md)
 
 ## License
 

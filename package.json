@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-modalbox",
-  "version": "2.0.2-0.0.1",
+  "name": "@react-native-ohos/react-native-modalbox",
+  "version": "2.0.3",
   "description": "A <Modal/> component for react-native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxs15/react-native-modalbox.git"
+    "url": "git+https://github.com/react-native-oh-library/react-native-modalbox.git"
   },
   "keywords": [
     "react-component",
@@ -23,9 +23,9 @@
   "author": "Max",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxs15/react-native-modalbox/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-modalbox/issues"
   },
-  "homepage": "https://github.com/maxs15/react-native-modalbox#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-modalbox#readme",
   "dependencies": {
     "prop-types": "^15.5.10",
     "react-native-modalbox": "2.0.2"
